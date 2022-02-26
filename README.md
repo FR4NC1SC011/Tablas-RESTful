@@ -1,6 +1,6 @@
 # Tablas-RESTful
 
-###Crear API REST utilizando la siguiente tabla RESTFull:
+## Crear API REST utilizando la siguiente tabla RESTFull:
 
     * GET /results/:n1/:n2 -> Sumar n1 + n2
     * POST /results/ -> Multiplicar n1 * n2
